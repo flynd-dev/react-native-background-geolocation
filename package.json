@@ -1,12 +1,12 @@
 {
-  "name": "@mauron85/react-native-background-geolocation",
+  "name": "@flynd-dev/react-native-background-geolocation",
   "version": "0.6.3",
   "description": "optimized background location tracking",
   "main": "./index.js",
   "types": "./index.d.ts",
   "scripts": {
-    "link": "@mauron85/react-native-background-geolocation/scripts/postlink.js",
-    "unlink": "@mauron85/react-native-background-geolocation/scripts/postunlink.js",
+    "link": "@flynd-dev/react-native-background-geolocation/scripts/postlink.js",
+    "unlink": "@flynd-dev/react-native-background-geolocation/scripts/postunlink.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
