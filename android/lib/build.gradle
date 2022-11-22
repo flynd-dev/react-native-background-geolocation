@@ -83,6 +83,7 @@ android {
 
 dependencies {
     implementation project(path: ':@flynd-dev_react-native-background-geolocation-common')
+    implementation ('androidx.annotation:annotation:1.5.0')
 
     projDependencies.each {
         add(it.configuration, it.dependency)
