@@ -48,7 +48,7 @@ allprojects {
 }
 
 ext {
-    reactNativeLibVersion = "0.60.5"
+    reactNativeLibVersion = "0.61.2"
 }
 
 task clean(type: Delete) {
